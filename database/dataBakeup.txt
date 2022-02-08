@@ -1,0 +1,56 @@
+commissionerProtected
+
+id,password
+11901,xyz123
+
+commissioner
+
+11901
+Rajan
+1234567890
+rajansir@gmail.com
+
+
+policeProtected
+
+id,password
+11201,xyz111
+11202,xyz222
+11203,xyz333
+11204,xyz444
+11205,xyz555
+11206,xyz666
+11207,xyz777
+11208,xyz888
+11209,xyz999
+112010,xyz101010
+
+
+police
+
+id,name,task
+11201,jatin sharma,Highest Priority is the Protection of Human Life. There is no more important priority to the San Francisco Department than protection of human life. This belief is reflected in every aspect of police conduct. Our highest priority will always be the protection of human life. In violent situations we are committed in using all reasonable means to prevent injury to the public.
+11202,manish das,Believe that while Crime Prevention is our Principal Goal We should Vigorously Pursue those who Commit Serious Crimes. The Department's primary focus must be crime prevention. However when crimes do occur the Department must react with vigorous law enforcement moving aggressively toward arrest and prosecution of the perpetrator. Vigorous law enforcement is an important deterrent to serious crime.
+11203,thakur mirtunjaydeepak,Treat Members of the Public with Respect and Dignity. We Maintain the Highest Levels of Integrity and Professionalism in all Actions. We will treat all those we serve in a compassionate sensitive courteous and professional manner regardless of sex race lifestyle or reason for police contact. The integrity of the Department must not be compromised. There can be no question or suspicion among the citizenry regarding Department ethics. Professionalism requires impeccable conduct careful protection of all citizens' rights and the maintenance of high levels of accountability from all members of the Department.
+11204,Ali Husen,Recognize that the Department Members are its Greatest Asset and Assume Responsibility to Treat Them Professionally and Support Their Professional Development. All Department members are entitled to respectful fair and consistent treatment. In matters impacting member job satisfaction and effectiveness we seek the input of our members and involve them in the decision-making process. The efforts of our members are the principal means by which the Department fulfills its mission and accomplishes its public service goals.
+11205,Chota Bheem,committed to Solving Neighborhood Problems. We Care about the Quality of Life in the City's Neighborhoods and Believe that our Services Must Answer their Needs. The Department will provide a rapid and effective response to life threatening situations and other public safety emergencies. Yet we must seek new ways to address the contemporary neighborhood problems of crime fear of crime disorder and physical and social decay. We are committed to providing a highly visible presence in all the City's neighborhoods.
+11206,Jonny LLB, Maintain Open Communication with all the Communities We Serve. Their Input Helps to Determine Police Policies Priorities and Strategies. The Department recognizes the need to collaborate with the public in order to reduce crime disorder fear and all those negative factors lessening the quality of life. We cannot effectively deal with these by ourselves. Through open communication we strive to increase public understanding of law enforcement complexities to ensure the certainty that Department priorities match community expectations and to inform the public of the reasons for police actions.
+11207,Singham, Believe That Policing Strategies Must Preserve and Advance Democratic Values. The Law enforcement officer in a democratic country must be the living expression of the values and potentialities of democracy. Police officers must as a matter of course know and use the most effective techniques for enforcing the law and maintaining order. Moreover they must perform their duties in a manner that helps to preserve and extend the precious values of a democratic society. Thus police must respect and protect the rights of all citizens as guaranteed by the States Constitution. These rights include the right to move throughout the City without fear the right to be free of harassment and discrimination and the right to speak and/or demonstrate one's opinion in a lawful and orderly way.
+11208,Bajirav Mastani,Committed to Managing Our Resources in a Careful Efficient and Effective Manner. The Management of a police department is very similar to the operation of a business with the ultimate objective being quality service delivery to clients with a minimum of costs. The police department must be managed so that there is a maximum return from the expenditure of each tax dollar appropriated. Issues such as employee productivity fiscal accountability planning and resource utilization will be carefully studied and systematically addressed .
+11209,Amrender bahubali,committed to Solving Neighborhood Problems. We Care about the Quality of Life in the City's Neighborhoods and Believe that our Services Must Answer their Needs. The Department will provide a rapid and effective response to life threatening situations and other public safety emergencies. Yet we must seek new ways to address the contemporary neighborhood problems of crime fear of crime disorder and physical and social decay. We are committed to providing a highly visible presence in all the City's neighborhoods.
+112010,Bhallal Dev,matters impacting member job satisfaction and effectiveness we seek the input of our members and involve them in the decision-making process. The efforts of our members are the principal means by which the Department fulfills its mission and accomplishes its public service goals.
+
+
+criminal
+
+id,name,crime,category,under custody
+11301,Jatin Sharma,Murder,A,false
+11301,Thakur Deepak,Robbing,B,false
+11303,Manish Das,Chain Snatching,C,true
+11304,Ramesh,Murder,A,true
+11305,Mohit Das,Street Fight,C,true
+11306,Kisan Sharma,Flirting,C,false
+11307,Afiz Khan,Commit to sucide,B,true
+11308,Ben Tennysen,Robery,A,true
+11309,Bali Bhadra,Street Fighting,B,false
+113010,Kaneez kahn,Serial Killer,A,false

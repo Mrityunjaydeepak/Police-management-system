@@ -1,0 +1,12 @@
+id,name,crime,category,custody
+11301,Jatin Sharma,Murder,A,false
+11301,Thakur Deepak,Robbing,B,false
+11303,Manish Das,Chain Snatching,C,true
+11304,Ramesh,Murder,A,true
+11305,Mohit Das,Street Fight,C,true
+11306,Kisan Sharma,Flirting,C,false
+11307,Afiz Khan,Commit to sucide,B,true
+11308,Ben Tennysen,Robery,A,true
+11309,Bali Bhadra,Street Fighting,B,false
+113010,Kaneez kahn,serial murderer,A,false
+113011,subash,depression,C,true
